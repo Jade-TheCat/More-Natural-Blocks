@@ -1,9 +1,12 @@
-# Items
+#Items
 
-# Blocks
-tile.basalt.name=Smooth Basalt
-tile.marble.name=Smooth Marble
-tile.limestone.name=Smooth Limestone
-tile.basalt_brick.name=Basalt Bricks
-tile.marble_brick.name=Marble Bricks
-tile.limestone_brick.name=Limestone Bricks
+#Blocks
+tile.morenaturalblocks.stone.stone_basalt.name=Basalt
+tile.morenaturalblocks.stone.stone_marble.name=Marble
+tile.morenaturalblocks.stone.stone_limestone.name=Limestone
+tile.morenaturalblocks.stone.smooth_basalt.name=Smooth Basalt
+tile.morenaturalblocks.stone.smooth_marble.name=Smooth Marble
+tile.morenaturalblocks.stone.smooth_limestone.name=Smooth Limestone
+tile.morenaturalblocks.stone.bricks_basalt.name=Basalt Bricks
+tile.morenaturalblocks.stone.bricks_marble.name=Marble Bricks
+tile.morenaturalblocks.stone.bricks_limestone.name=Limestone Bricks
