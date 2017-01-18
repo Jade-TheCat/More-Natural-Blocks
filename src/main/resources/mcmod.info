@@ -1,0 +1,16 @@
+[
+{
+  "modid": "morenaturalblocks",
+  "name": "More Natural Blocks",
+  "description": "More blocks that Naturally Generate!",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["JasonIEA"],
+  "credits": "Grian, for the ideas for these blocks",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
